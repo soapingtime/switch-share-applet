@@ -1,0 +1,1 @@
+This is web-lp1.share.srv.nintendo.net (the nintendo switch image share applet. the required useragent is "Mozilla/5.0 (Nintendo Switch; ShareApplet) AppleWebKit/609.4 (KHTML, like Gecko) NF/6.0.2.21.3 NintendoBrowser/5.1.0.22474"
