@@ -2,14 +2,14 @@
 <html>
 <head>
   <title>post image</title>
-  <link rel="stylesheet" media="all" href="application-2e2fdd8d311b14fd4d01ac6172f3823a01bdbdb727557f55882d09d0c91e15bf.css" />
+  <link rel="stylesheet" media="all" href="//assets-cdn-live.share.srv.nintendo.net/assets/lp1/application-2e2fdd8d311b14fd4d01ac6172f3823a01bdbdb727557f55882d09d0c91e15bf.css" />
   <script type="text/javascript">
     window.translations = {"PsrCommon_Btn_OK":"OK","PsrCommon_Footer_Back":"Back","PsrSnsSet_DlgBody_NoSave":"If you leave this box unchecked, your social-media account will not be linked to your Nintendo Account.\n\nLinking allows you to post without having to re-enter your password and other information for this social-media account.","PsrSnsSet_DlgBody_NoConnect":"Your account has been unlinked.\n\nYour password and other information saved on the authentication screen for this account can be deleted by returning to the HOME Menu and selecting  (System Settings), then selecting System ⇒ Formatting Options ⇒ Reset Cache.","PsrSnsSet_DlgBody_CheckConnect":"Unlink this social-media account?","PsrSnsSet_DlgBtn_NoConnect":"Unlink","PsrSnsSet_DlgBtn_Cancel":"Cancel","PsrCommentMake_Footer_SnsSet":"Change Posting Location"};
     window.assets = {
-        ico_checked: "ico_checked_30px-6a13bff4d480c020c08b30689f0413d4f7157886acd4cd6fd805070dc810c3e7.png",
+        ico_checked: "//assets-cdn-live.share.srv.nintendo.net/assets/lp1/ico_checked_30px-6a13bff4d480c020c08b30689f0413d4f7157886acd4cd6fd805070dc810c3e7.png",
     };
   </script>
-  <script src="application-f832c29d8fb64ac6c21563b64cd7cd67bc671e7ee9a8f9f5fd6c4e2aa981e324.js"></script>
+  <script src="//assets-cdn-live.share.srv.nintendo.net/assets/lp1/application-f832c29d8fb64ac6c21563b64cd7cd67bc671e7ee9a8f9f5fd6c4e2aa981e324.js"></script>
   <meta name="csrf-param" content="authenticity_token" />
 <meta name="csrf-token" content="38C-MYMJe0V6D6SAMw_GTkbM4BOqIwBmhYNvI5HH0Yfvddzq5Ldk7TVPoWgmVWawBTTyjsXcxJVTJny6jwMKQA" />
   
